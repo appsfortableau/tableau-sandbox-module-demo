@@ -1,0 +1,11 @@
+{
+  "port": 8080,
+  "extensions": {
+    "demo": {
+      "path": "dist/"
+    },
+    "legacy": {
+      "path": "legacy-demo/"
+    }
+  }
+}
